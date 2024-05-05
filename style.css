@@ -8,3 +8,16 @@ h1 {
     font-weight: bold;
     text-decoration: underline;
 }
+
+body {
+    background: linear-gradient(180deg, #FFEEEE, #DDEFBB);
+    height: 100vh;
+}
+
+.block {
+    display: block;
+    margin:auto;
+    border-radius: 25px;
+    width: min(70%, 500px);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.479);
+}
